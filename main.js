@@ -64,8 +64,3 @@ function clear(){
     passwordErr.innerText = "";
     loginMsg.innerText = "";
 }
-
-
-// const email10 = "Parsa15666@gmail.com";
-// const regex = /^\w{3,25}@[a-z]{3,7}\.[a-z]{2,3}$/;
-// console.log(regex.test(email10))
